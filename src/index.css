@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+:root {
+  --clr-primary: rgb(219, 36, 45);
+}
+
+a, li, ul, h1, h2, h3, p, button {
+  all: unset;
+}
+
+html {
+  height: 100%;
+  /* width: 100vw; */
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* h2 {
+  font-size: 58px;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+} */
+
+.wrap {
+  max-width: 1500px;
+  margin-inline: auto;
+}
+
+
+
+button {
+  text-align: center;
+
+}
+
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+@media (width<=1135) {}
