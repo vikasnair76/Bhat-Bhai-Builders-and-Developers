@@ -1,10 +1,6 @@
 # Bhat Bhai Builders & Developers (Website)
-
 A responsive business website built with **React + Vite** for showcasing services, projects, and contact information.
 
-## Demo
-- Live: _(add link if deployed — Vercel/Netlify)_
-- Screenshots: _(add 2–4 images from your site)_
 
 ## Features
 - Modern, responsive UI
@@ -39,5 +35,6 @@ cd Bhat-Bhai-Builders-and-Developers
 
 ### Build for Production
 npm run build
+
 npm run preview
 
